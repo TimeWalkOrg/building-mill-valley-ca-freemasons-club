@@ -1,9 +1,9 @@
 # Mill Valley Masonic Lodge
-153 Throckmorton Avenue, Mill Valley, CA 94941
+153 Throckmorton Avenue, Mill Valley, CA 94941 [TO CONFIRM]
 
 ## Building History
 
-Mill Valley’s Masonic Lodge was originally built in 1903 and designed by Harvey Klyce. The building was remodeled in 1924, and in 1979 it became known as Sweetwater Music Hall when Jeanie Patterson became the owners. Sweetwater still acted as a masonic lodge, and even today, 115 years since the its creation, Masonry is still practiced there.
+Mill Valley’s Masonic Lodge was originally built in 1903 and designed by Harvey Klyce. The building was remodeled in 1924, and in 1979 it became known as Sweetwater Music Hall when Jeanie Patterson became the owners. Sweetwater still acted as a masonic lodge, and even today, 115 years since the its creation, Masonry is still practiced there.  [TO CONFIRM]
 
 - Built: 1903
 - Remodeled: 1924
@@ -17,7 +17,7 @@ Mill Valley’s Masonic Lodge was originally built in 1903 and designed by Harve
 - Model completed: June, 2018
 - Modeled using SketchUp Make 2017
 
-![SketchUp model screenshot](https://URLHERE)
+![SketchUp model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-freemasons-club/blob/master/freemasons-club-sketchup.jpg)
 ![Photo of original building](https://URLHERE)
 
 ### Online references & photographs
